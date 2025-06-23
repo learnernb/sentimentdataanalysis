@@ -17,10 +17,10 @@ To explore the patterns and trends in tweets based on sentiment labels and draw 
 
 ##  Tools Used
 
-- Python 🐍
+- Python 
 - Pandas & NumPy
-- Matplotlib & Seaborn 📊
-- WordCloud ☁️
+- Matplotlib & Seaborn 
+- WordCloud 
 - NLTK (Stopwords)
 - Jupyter Notebook
 
@@ -44,7 +44,7 @@ To explore the patterns and trends in tweets based on sentiment labels and draw 
 
 ![image](https://github.com/user-attachments/assets/8978b90c-a8e4-4415-8e0f-541cd6647dc6)
 
-(Add your actual images here from notebook outputs.)
+
 
 ---
 
